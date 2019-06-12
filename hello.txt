@@ -1,0 +1,70 @@
+	Flight #1
+Model: Ford Focus
+Number: BE 2312 CD
+Destination: Odessa
+Load capacity (tons): 1
+Unit cost of cargo: 1
+Total value of cargo: 1
+	Flight #2
+Model: Lada
+Number: CA 2312 DS
+Destination: Lviv
+Load capacity (tons): 1
+Unit cost of cargo: 123
+Total value of cargo: 321
+	Flight #3
+Model: KAMAZ
+Number: SA 1232 SA
+Destination: Zhashkiv
+Load capacity (tons): 15
+Unit cost of cargo: 111
+Total value of cargo: 1412
+	Flight #4
+Model: Mersedes Benz
+Number: SA 4213 VD
+Destination: Donbass
+Load capacity (tons): 1
+Unit cost of cargo: 112
+Total value of cargo: 1231
+	Flight #5
+Model: KAMAz
+Number: SA 1223
+Destination: Odessa
+Load capacity (tons): 12
+Unit cost of cargo: 12
+Total value of cargo: 2331
+	Flight #6
+Model: Mersedes
+Number: DS 2311 SD
+Destination: Lviv
+Load capacity (tons): 12
+Unit cost of cargo: 1122
+Total value of cargo: 3322
+	Flight #7
+Model: Lada
+Number: XS 2311 DF
+Destination: Odessa
+Load capacity (tons): 12
+Unit cost of cargo: 121
+Total value of cargo: 122
+	Flight #8
+Model: Zigul
+Number: SA 2123 AS
+Destination: Qwerty
+Load capacity (tons): 12
+Unit cost of cargo: 122
+Total value of cargo: 1222
+	Flight #9
+Model: Qwertty
+Number: SA 3468 DF
+Destination: Qwerrty
+Load capacity (tons): 12
+Unit cost of cargo: 123
+Total value of cargo: 3432
+	Flight #10
+Model: Qweertt
+Number: SA 2132 DS
+Destination: 1
+Load capacity (tons): 1
+Unit cost of cargo: 2331
+Total value of cargo: 21
